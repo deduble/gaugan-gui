@@ -1,3 +1,6 @@
+wheel
+https://download.pytorch.org/whl/cu90/torch-1.1.0-cp36-cp36m-win_amd64.whl
+https://download.pytorch.org/whl/cu90/torchvision-0.3.0-cp36-cp36m-win_amd64.whl
 django>=2.2.1
 flask>=0.12.2
 torch>=1.1.0
